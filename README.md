@@ -1,5 +1,7 @@
-# 使用案例
+# 使用效果
+![image](https://github.com/dingminghui/taro-index-list/blob/main/src/assets/index-list.gif)
 
+# 使用案例
 ```tsx
 import IndexList from '@/components/IndexList';
 import { View } from '@tarojs/components';
