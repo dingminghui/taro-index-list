@@ -1,7 +1,7 @@
 {
   "name": "taro-index-list",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
   "description": "Taro index-list 组件",
   "templateInfo": {
     "name": "default",
