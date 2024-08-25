@@ -62,7 +62,7 @@
     "webpack": "5.69.0",
     "@tarojs/webpack5-runner": "3.5.1",
     "babel-preset-taro": "3.5.1",
-    "eslint-config-taro": "3.5.1",
+    "eslint-config-taro": "3.6.35",
     "eslint": "^8.12.0",
     "@pmmmwh/react-refresh-webpack-plugin": "0.5.5",
     "react-refresh": "0.11.0",
