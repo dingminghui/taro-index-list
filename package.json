@@ -60,7 +60,7 @@
     "@types/webpack-env": "^1.13.6",
     "@types/react": "^18.0.0",
     "webpack": "5.69.0",
-    "@tarojs/webpack5-runner": "3.5.1",
+    "@tarojs/webpack5-runner": "3.6.35",
     "babel-preset-taro": "3.5.1",
     "eslint-config-taro": "3.5.1",
     "eslint": "^8.12.0",
